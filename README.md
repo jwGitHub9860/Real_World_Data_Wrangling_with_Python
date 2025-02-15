@@ -31,4 +31,6 @@ Jas, Ram. “Most Polluted Cities and Countries (IQAir Index).” _Kaggle_, 27 M
 
 "Python For Data Science _Cheat Sheet_" _Cheat Sheet Numpy Python Copy.Indd_, assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf. Accessed 15 Feb. 2025. 
 
+“Series.” _Series - Pandas 2.2.3 Documentation_, pandas.pydata.org/pandas-docs/stable/reference/series.html. Accessed 15 Feb. 2025. 
+
 “Udacity Git Commit Message Style Guide.” _Udacity Nanodegree Style Guide_, udacity.github.io/git-styleguide/. Accessed 13 Feb. 2025. 
