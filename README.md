@@ -6,7 +6,10 @@ The project obtains two different datasets, creates one original copy and one co
 
 ## Files Used
 ```
-_.csv
+edit_AIR QUALITY INDEX (by cities) - IQAir.csv
+original_AIR QUALITY INDEX (by cities) - IQAir.csv
+worldcities.csv
+worldcities.zip
 ```
 
 ## Date created
