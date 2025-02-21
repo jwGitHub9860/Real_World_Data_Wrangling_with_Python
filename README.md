@@ -41,6 +41,8 @@ Kher, Akshar. “Getting an TypeError for a serborn code for visualisation.” _
 
 Moskaltsov, Yury. “pandas subplot title size.” _Stack Overflow_, 1 Jan. 1966, stackoverflow.com/questions/66277501/pandas-subplot-title-size. Accessed 19 Feb. 2025.
 
+“pandas.DataFrame.plot.” _Pandas.DataFrame.Plot - Pandas 0.23.1 Documentation_, pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.DataFrame.plot.html. Accessed 19 Feb. 2025. 
+
 “Pandas dataframe.sum().” _GeeksforGeeks_, GeeksforGeeks, 6 Dec. 2024, www.geeksforgeeks.org/python-pandas-dataframe-sum/. Accessed 16 Feb 2025.
 
 "Python For Data Science _Cheat Sheet_" _Cheat Sheet Numpy Python Copy.Indd_, assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf. Accessed 15 Feb. 2025. 
