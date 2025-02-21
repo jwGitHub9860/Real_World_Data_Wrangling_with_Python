@@ -31,9 +31,15 @@ C, Viswanathan. “World Cities Datasets.” _Kaggle_, 30 Jan. 2020, www.kaggle.
 
 Jas, Ram. “Most Polluted Cities and Countries (IQAir Index).” _Kaggle_, 27 Mar. 2022, www.kaggle.com/datasets/ramjasmaurya/most-polluted-cities-and-countries-iqair-index?select=AIR%2BQUALITY%2BINDEX%2B%28by%2Bcities%29%2B-%2BIQAir.csv. Accessed 10 Feb 2025.
 
+jolindbe. “Common xlabel/ylabel for matplotlib subplots.” _Stack Overflow_, 1 Mar. 1958, stackoverflow.com/questions/16150819/common-xlabel-ylabel-for-matplotlib-subplots. Accessed 20 Feb. 2025.
+
+Kher, Akshar. “Getting an TypeError for a serborn code for visualisation.” _Stack Overflow_, 1 Dec. 1969, stackoverflow.com/questions/79309282/getting-an-typeerror-for-a-serborn-code-for-visualisation. Accessed 19 Feb. 2025.
+
 “Merge Two Pandas DataFrames on Certain Columns.” _GeeksforGeeks_, GeeksforGeeks, 28 Nov. 2024, www.geeksforgeeks.org/merge-two-pandas-dataframes-on-certain-columns/. 18 Feb. 2025.
 
 “MLA Works Cited: Electronic Sources (Web Publications).” _MLA Works Cited: Electronic Sources - Purdue OWL® - Purdue University_, owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_electronic_sources.html. Accessed 13 Feb 2025.
+
+Moskaltsov, Yury. “pandas subplot title size.” _Stack Overflow_, 1 Jan. 1966, stackoverflow.com/questions/66277501/pandas-subplot-title-size. Accessed 19 Feb. 2025.
 
 “Pandas dataframe.sum().” _GeeksforGeeks_, GeeksforGeeks, 6 Dec. 2024, www.geeksforgeeks.org/python-pandas-dataframe-sum/. Accessed 16 Feb 2025.
 
