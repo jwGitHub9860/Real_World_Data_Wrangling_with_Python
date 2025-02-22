@@ -50,3 +50,5 @@ Moskaltsov, Yury. “pandas subplot title size.” _Stack Overflow_, 1 Jan. 1966
 “Series.” _Series - Pandas 2.2.3 Documentation_, pandas.pydata.org/pandas-docs/stable/reference/series.html. Accessed 15 Feb. 2025. 
 
 “Udacity Git Commit Message Style Guide.” _Udacity Nanodegree Style Guide_, udacity.github.io/git-styleguide/. Accessed 13 Feb. 2025. 
+
+user2781163. “Detecting Typos in a CSV Column by Using Pandas and a List of Valid Values.” _Stack Overflow_, 1 Apr. 1959, stackoverflow.com/questions/23577020/detecting-typos-in-a-csv-column-by-using-pandas-and-a-list-of-valid-values. 21 Feb. 2025.
