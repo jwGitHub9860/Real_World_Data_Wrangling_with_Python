@@ -25,6 +25,8 @@ C, Viswanathan. “World Cities Datasets.” _Kaggle_, 30 Jan. 2020, www.kaggle.
 
 “DataFrame.” _DataFrame - Pandas 2.2.3 Documentation_, pandas.pydata.org/pandas-docs/stable/reference/frame.html. Accessed 12 Feb. 2025. 
 
+Harley, and cottontail. “Pandas error in Python: columns must be same length as key.” _Stack Overflow_, 1 Sept. 1962, stackoverflow.com/questions/46585193/pandas-error-in-python-columns-must-be-same-length-as-key. Accessed 18 Feb. 2025.
+
 “How to Break up a Comma Separated String in Pandas Column.” _GeeksforGeeks_, GeeksforGeeks, 19 Nov. 2024, www.geeksforgeeks.org/how-to-break-up-a-comma-separated-string-in-pandas-column/. Accessed 18 Feb. 2025.
 
 “How to Plot Multiple Data Columns in a DataFrame?” _GeeksforGeeks_, GeeksforGeeks, 1 Dec. 2023, www.geeksforgeeks.org/how-to-plot-multiple-data-columns-in-a-dataframe/. Accessed 19 Feb. 2025.
@@ -44,6 +46,8 @@ Moskaltsov, Yury. “pandas subplot title size.” _Stack Overflow_, 1 Jan. 1966
 “pandas.DataFrame.plot.” _Pandas.DataFrame.Plot - Pandas 0.23.1 Documentation_, pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.DataFrame.plot.html. Accessed 19 Feb. 2025. 
 
 “Pandas dataframe.sum().” _GeeksforGeeks_, GeeksforGeeks, 6 Dec. 2024, www.geeksforgeeks.org/python-pandas-dataframe-sum/. Accessed 16 Feb 2025.
+
+Peille, Nicolas, and Mario Cianciolo. “How to Find If There Are Wrong Values in a Pandas Dataframe?” _Stack Overflow_, 1 Mar. 1963, stackoverflow.com/questions/50138110/how-to-find-if-there-are-wrong-values-in-a-pandas-dataframe. Accessed 12 Feb. 2025.
 
 "Python For Data Science _Cheat Sheet_" _Cheat Sheet Numpy Python Copy.Indd_, assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf. Accessed 15 Feb. 2025. 
 
