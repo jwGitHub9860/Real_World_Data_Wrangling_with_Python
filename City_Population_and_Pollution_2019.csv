@@ -1,0 +1,393 @@
+city,country,Pollution Level (Air Quality Index values),population
+Delhi,India,96.4,15926000.0
+Lahore,Pakistan,86.5,6577000.0
+Lucknow,India,86.0,2695000.0
+Kashgar,China,83.2,543914.0
+Patna,India,78.2,2158000.0
+Dhaka,Bangladesh,78.1,12797394.0
+Kolkata,India,59.0,14787000.0
+Jaipur,India,56.6,2917000.0
+Shihezi,China,55.7,573182.0
+Lampang,Thailand,52.2,204081.0
+Aksu,China,51.2,340020.0
+Kathmandu,Nepal,50.9,895000.0
+Xiangyang,China,50.6,1069000.0
+Manama,Bahrain,49.8,563920.0
+Krasnoyarsk,Russia,49.8,925000.0
+Luohe,China,49.7,417356.0
+Turpan,China,49.6,254900.0
+Heze,China,48.5,1338000.0
+Liaocheng,China,47.6,226930.0
+Wuhan,China,46.7,7243000.0
+Shijiazhuang,China,46.5,2417000.0
+Mumbai,India,46.4,18978000.0
+Taiyuan,China,46.3,2913000.0
+Yangquan,China,45.9,981448.0
+Karachi,Pakistan,45.9,12130000.0
+Xianyang,China,45.7,1126000.0
+Weinan,China,45.3,172321.0
+Xinzhou,China,44.9,279607.0
+Zhoukou,China,44.8,377061.0
+Fuyang,China,44.7,771000.0
+Dezhou,China,44.1,379555.0
+Zhengzhou,China,43.4,2636000.0
+Yibin,China,43.3,902000.0
+Changsha,China,43.0,2604000.0
+Korla,China,42.1,206373.0
+Suzhou,China,42.0,1650000.0
+Jinan,China,42.0,2798000.0
+Islamabad,Pakistan,41.1,780000.0
+Chengdu,China,40.3,4123000.0
+Wuwei,China,40.2,493092.0
+Changde,China,40.0,1469000.0
+Tianjin,China,39.9,7180000.0
+Hyderabad,India,39.4,6376000.0
+Changzhi,China,39.2,706000.0
+Jakarta,Indonesia,39.2,9125000.0
+Jinzhong,China,39.1,5170.0
+Zhuzhou,China,39.0,1080000.0
+Luzhou,China,38.3,1537000.0
+Zhenjiang,China,37.7,854000.0
+Deyang,China,37.7,152194.0
+Jiujiang,China,37.3,545616.0
+Lanzhou,China,37.1,2561000.0
+Shenyang,China,37.0,4787000.0
+Hanoi,Vietnam,36.2,4378000.0
+Coyhaique,Chile,36.1,45787.0
+Changzhou,China,36.0,1327000.0
+Neijiang,China,35.9,1466000.0
+Mianyang,China,35.8,1396000.0
+Jincheng,China,35.7,760000.0
+Yingkou,China,35.0,795000.0
+Shuozhou,China,35.0,570000.0
+Beijing,China,34.4,11106000.0
+Wuhu,China,34.0,810000.0
+Taizhou,China,34.0,612356.0
+Ulaanbaatar,Mongolia,33.8,885000.0
+Harbin,China,33.7,3621000.0
+Huangshi,China,33.0,688090.0
+Temuco,Chile,32.7,265901.0
+Anqing,China,32.7,580497.0
+Suihua,China,32.7,252245.0
+Rizhao,China,32.7,865000.0
+Hefei,China,32.6,2035000.0
+Xining,China,32.2,1048000.0
+Pingxiang,China,32.1,961000.0
+Zhangye,China,31.7,230728.0
+Tehran,Iran,31.7,7873000.0
+Lima,Peru,31.5,8012000.0
+Liuzhou,China,31.3,1497000.0
+Changchun,China,31.2,3183000.0
+Chongqing,China,31.0,6461000.0
+Jinchang,China,31.0,144363.0
+Hohhot,China,30.8,1726000.0
+Xinyu,China,30.8,913000.0
+Nanchang,China,30.7,2350000.0
+Nantong,China,30.6,947000.0
+Wuhai,China,30.4,218427.0
+Yichun,China,30.4,982000.0
+Suining,China,30.0,1425000.0
+Yinchuan,China,29.9,991000.0
+Wuxi,China,29.8,1749000.0
+Qingdao,China,29.7,2866000.0
+Kuwait City,Kuwait,29.7,2063000.0
+Jiayuguan,China,29.3,148279.0
+Nanjing,China,29.0,3679000.0
+Yancheng,China,28.9,839000.0
+Guilin,China,28.6,987000.0
+Mudanjiang,China,28.4,1244000.0
+Shiyan,China,28.3,770000.0
+Kumul,China,28.2,300848.0
+Nanning,China,28.1,2167000.0
+Shanghai,China,27.7,14987000.0
+Shaoxing,China,27.7,777000.0
+Kampala,Uganda,27.6,1420000.0
+Hangzhou,China,27.4,3007000.0
+Chenzhou,China,27.3,322997.0
+Jiamusi,China,27.2,1020000.0
+Jiaxing,China,26.5,988000.0
+Shangrao,China,26.4,1144577.0
+Jixi,China,26.3,965000.0
+Mae Sot,Thailand,26.0,45781.0
+Santiago,Chile,25.8,5720000.0
+Baishan,China,25.8,330000.0
+Jinhua,China,25.6,1092852.0
+Wuzhou,China,25.5,442315.0
+Rancagua,Chile,25.4,233268.0
+Weihai,China,25.3,560255.0
+Huzhou,China,25.3,1231000.0
+Chennai,India,25.2,7163000.0
+Chiang Mai,Thailand,24.9,397211.0
+Shaoguan,China,24.8,720266.0
+Guangzhou,China,24.4,8829000.0
+Baicheng,China,24.0,386861.0
+Addis Ababa,Ethiopia,23.9,3100000.0
+Guiyang,China,23.8,3662000.0
+Fuzhou,China,23.8,2606000.0
+Chaozhou,China,23.7,424787.0
+Foshan,China,23.6,943000.0
+Zhangzhou,China,23.5,3531147.0
+Tongliao,China,23.5,884000.0
+Belgrade,Serbia,23.4,1099000.0
+Kunming,China,23.3,2931000.0
+Samut Sakhon,Thailand,23.3,63498.0
+Modena,Italy,23.2,175502.0
+Lublin,Poland,23.1,360044.0
+Qingyuan,China,23.0,706717.0
+Slavonski Brod,Croatia,23.0,97718.0
+Zhanjiang,China,22.9,1590000.0
+Karamay,China,22.9,108769.0
+Jingdezhen,China,22.7,457298.0
+Dongguan,China,22.6,4528000.0
+Katowice,Poland,22.5,2746000.0
+Zhaoqing,China,22.3,480000.0
+Jiangmen,China,22.2,532419.0
+Ganzhou,China,22.2,1500000.0
+Mexico City,Mexico,21.7,19028000.0
+Chon Buri,Thailand,21.7,226618.0
+Yangjiang,China,21.6,872363.0
+Kaohsiung,Taiwan,21.6,2769072.0
+Ratchaburi,Thailand,21.6,106996.0
+San Fernando,Chile,21.5,60746.0
+Hegang,China,21.3,743307.0
+Samut Prakan,Thailand,21.1,388920.0
+Ningbo,China,21.0,1923000.0
+Yuxi,China,20.9,396325.0
+Heyuan,China,20.8,330961.0
+Quanzhou,China,20.6,1463000.0
+Sanming,China,20.6,209444.0
+Putian,China,20.4,376558.0
+Monterrey,Mexico,20.1,3712000.0
+Tainan,Taiwan,20.1,1876312.0
+Huizhou,China,20.0,289201.0
+Qiqihar,China,20.0,1641000.0
+Bangkok,Thailand,20.0,6704000.0
+Xiamen,China,19.9,2519000.0
+Ningde,China,19.6,314077.0
+Pingliang,China,19.6,207256.0
+Salamanca,Mexico,19.6,197524.0
+Nanping,China,19.5,213054.0
+Ho Chi Minh City,Vietnam,19.4,5314000.0
+Longyan,China,19.3,367896.0
+Meizhou,China,19.3,414930.0
+Celaya,Mexico,19.3,383697.0
+Nantou,Taiwan,19.3,165000.0
+Shantou,China,19.2,1601000.0
+Zhuhai,China,19.0,1023000.0
+Kyiv,Ukraine,18.8,2709000.0
+Chifeng,China,18.5,1277000.0
+Warsaw,Poland,18.2,1707000.0
+Changhua,Taiwan,18.2,750000.0
+Lishui,China,18.1,172777.0
+Pingtung,Taiwan,18.1,503530.0
+Osorno,Chile,17.9,154131.0
+Linares,Chile,17.9,81015.0
+Shenzhen,China,17.9,7581000.0
+Irapuato,Mexico,17.9,339554.0
+Sofia,Bulgaria,17.6,1185000.0
+Bergamo,Italy,17.6,200000.0
+Rayong,Thailand,17.4,37035.0
+Talca,Chile,17.2,197479.0
+Dali,China,17.1,109696.0
+Taichung,Taiwan,17.1,2629323.0
+Puerto Montt,Chile,16.6,174629.0
+Ruse,Bulgaria,16.3,184270.0
+Gannan,China,15.9,59239.0
+Mexicali,Mexico,15.9,885000.0
+Trnava,Slovakia,15.8,69785.0
+Nagqu,China,15.7,2500.0
+Nicosia,Cyprus,14.8,224300.0
+Miaoli,Taiwan,14.7,150000.0
+Heihe,China,14.6,109427.0
+Naples,Italy,14.6,2250000.0
+Vilnius,Lithuania,14.6,542366.0
+Benevento,Italy,14.4,61791.0
+Haikou,China,14.3,2046189.0
+Larnaca,Cyprus,14.3,48947.0
+Yala,Thailand,14.0,148140.0
+Bratislava,Slovakia,13.8,423737.0
+Paris,France,13.7,9904000.0
+Narathiwat,Thailand,13.7,68112.0
+Keelung,Taiwan,13.5,500000.0
+Olsztyn,Poland,13.4,186670.0
+Szczecin,Poland,13.4,407811.0
+Lübeck,Germany,13.3,235390.0
+Duisburg,Germany,13.2,1276757.0
+Bydgoszcz,Poland,13.1,366452.0
+Taipei,Taiwan,13.0,6900273.0
+Caserta,Italy,12.8,250000.0
+Gent,Belgium,12.7,444336.0
+Valdivia,Chile,12.7,159599.0
+Berlin,Germany,12.5,3406000.0
+Utrecht,Netherlands,12.3,640000.0
+Coquimbo,Chile,12.2,161317.0
+Linz,Austria,12.1,349161.0
+Sanya,China,12.0,362689.0
+Schwerin,Germany,12.0,96641.0
+Lille,France,11.9,1044000.0
+Moscow,Russia,11.9,10452000.0
+Vienna,Austria,11.8,2400000.0
+Rouen,France,11.8,532559.0
+Cottbus,Germany,11.8,105067.0
+Lyon,France,11.7,1423000.0
+Mulhouse,France,11.6,215454.0
+Passau,Germany,11.6,50560.0
+Matsuyama,Japan,11.6,533541.0
+Arica,Chile,11.5,185999.0
+La Serena,Chile,11.4,154521.0
+Düsseldorf,Germany,11.4,1220000.0
+Dortmund,Germany,11.3,588462.0
+Varna,Bulgaria,11.1,312770.0
+Brussels,Belgium,11.0,1743000.0
+Strasbourg,France,10.9,439972.0
+Melun,France,10.9,249432.0
+Le Havre,France,10.9,242124.0
+Potsdam,Germany,10.9,218095.0
+Magdeburg,Germany,10.9,229826.0
+Taranto,Italy,10.9,202033.0
+Reims,France,10.8,196565.0
+Coburg,Germany,10.8,61054.0
+Essen,Germany,10.8,1742135.0
+Dresden,Germany,10.8,617515.0
+Norwich,United Kingdom,10.8,190756.0
+Antofagasta,Chile,10.7,309832.0
+Mannheim,Germany,10.7,2362000.0
+Mainz,Germany,10.7,184997.0
+Erfurt,Germany,10.7,203254.0
+Cambridge,United Kingdom,10.7,128488.0
+Mons,Belgium,10.6,91277.0
+Valladolid,Spain,10.6,322304.0
+Nancy,France,10.5,268976.0
+Eisenstadt,Austria,10.4,13165.0
+Ulm,Germany,10.4,172955.0
+Munich,Germany,10.3,1275000.0
+Utsunomiya,Japan,10.3,667752.0
+Amsterdam,Netherlands,10.3,1031000.0
+Ingolstadt,Germany,10.2,163325.0
+Okayama,Japan,10.2,866092.0
+Annecy,France,10.1,105749.0
+Marseille,France,10.1,1400000.0
+Stuttgart,Germany,10.1,2944700.0
+Leipzig,Germany,10.1,542529.0
+Wakayama,Japan,10.1,440006.0
+Hamburg,Germany,10.0,1757000.0
+Fukuoka,Japan,10.0,2792000.0
+Yilan,Taiwan,10.0,150000.0
+Altay,China,9.9,142000.0
+Grenoble,France,9.9,388574.0
+Nantes,France,9.9,438537.0
+Augsburg,Germany,9.9,358989.0
+Bremerhaven,Germany,9.9,137751.0
+Wuppertal,Germany,9.9,776525.0
+Chemnitz,Germany,9.9,302643.0
+Hiroshima,Japan,9.9,2045000.0
+Rotterdam,Netherlands,9.9,1005000.0
+Bremen,Germany,9.8,724909.0
+Koblenz,Germany,9.8,312633.0
+Flensburg,Germany,9.8,97930.0
+Kiel,Germany,9.8,269427.0
+Ourense,Spain,9.8,118107.0
+Bern,Switzerland,9.8,275329.0
+London,United Kingdom,9.8,8567000.0
+Oxford,United Kingdom,9.8,192796.0
+Poitiers,France,9.7,85960.0
+Angers,France,9.7,188380.0
+Le Mans,France,9.7,144515.0
+Bristol,United Kingdom,9.7,553528.0
+Metz,France,9.6,409186.0
+Karlsruhe,Germany,9.6,377487.0
+Charleroi,Belgium,9.5,345367.0
+Edmonton,Canada,9.5,1058000.0
+Toulouse,France,9.5,847000.0
+Nice,France,9.5,927000.0
+Hannover,Germany,9.5,722490.0
+Groningen,Netherlands,9.5,216688.0
+Madrid,Spain,9.4,5567000.0
+Luton,United Kingdom,9.4,235958.0
+Toronto,Canada,9.3,5213000.0
+Aix-en-Provence,France,9.2,146821.0
+Braunschweig,Germany,9.2,244715.0
+Nagoya,Japan,9.2,3230000.0
+Luxembourg,Luxembourg,9.2,107260.0
+Qamdo,China,9.1,100000.0
+Limoges,France,9.1,152199.0
+Oldenburg,Germany,9.1,167458.0
+Gifu,Japan,9.1,412895.0
+Tokyo,Japan,9.1,35676000.0
+Manchester,United Kingdom,9.1,2230000.0
+Sheffield,United Kingdom,9.0,1292900.0
+Moss,Norway,8.9,36901.0
+Donostia,Spain,8.9,357468.0
+Hualien,Taiwan,8.9,350468.0
+Southend-on-Sea,United Kingdom,8.9,618386.0
+La Rochelle,France,8.8,76997.0
+Valencia,Spain,8.8,808000.0
+Malmö,Sweden,8.8,269349.0
+Liège,Belgium,8.7,749110.0
+Stavanger,Norway,8.7,173132.0
+Santiago de Compostela,Spain,8.7,92430.0
+Maebashi,Japan,8.6,344871.0
+Yokohama,Japan,8.6,3697894.0
+Santa Cruz de Tenerife,Spain,8.6,336061.0
+Leeds,United Kingdom,8.6,1529000.0
+Newcastle upon Tyne,United Kingdom,8.6,882000.0
+Southampton,United Kingdom,8.6,384417.0
+Stoke-on-Trent,United Kingdom,8.6,390801.0
+Toulon,France,8.5,357693.0
+Aomori,Japan,8.3,298394.0
+Yamagata,Japan,8.3,272209.0
+Vitoria-Gasteiz,Spain,8.3,224578.0
+Blackpool,United Kingdom,8.3,272792.0
+Nottingham,United Kingdom,8.3,825600.0
+Ottawa,Canada,8.2,1145000.0
+Lisbon,Portugal,8.2,2812000.0
+Akita,Japan,8.1,320069.0
+Morioka,Japan,8.0,295172.0
+Hamar,Norway,8.0,29479.0
+Plymouth,United Kingdom,8.0,247297.0
+Birmingham,United Kingdom,7.9,2285000.0
+Middlesbrough,United Kingdom,7.9,416042.0
+Dijon,France,7.8,169946.0
+Dublin,Ireland,7.8,1059000.0
+Taitung,Taiwan,7.8,175000.0
+Leicester,United Kingdom,7.7,457983.0
+Auxerre,France,7.6,41516.0
+Kanazawa,Japan,7.5,551249.0
+Nagano,Japan,7.5,594311.0
+Toyama,Japan,7.5,332812.0
+Oslo,Norway,7.5,835000.0
+Coventry,United Kingdom,7.5,388271.0
+York,United Kingdom,7.0,158947.0
+Niigata,Japan,6.9,569797.0
+Sendai,Japan,6.8,2250000.0
+Perth,Australia,6.6,1532000.0
+Calama,Chile,6.5,143084.0
+Sunderland,United Kingdom,6.4,452934.0
+Stockholm,Sweden,6.0,1264000.0
+Tallinn,Estonia,5.9,394024.0
+Helsinki,Finland,5.9,1115000.0
+Bergen,Norway,5.9,213585.0
+Lillehammer,Norway,5.9,19542.0
+Melbourne,Australia,5.6,4170000.0
+Victoria,Canada,5.6,289625.0
+Aberdeen,United Kingdom,5.6,189364.0
+Glasgow,United Kingdom,5.6,1160000.0
+Greenock,United Kingdom,5.6,74635.0
+Brisbane,Australia,5.5,1860000.0
+Lappeenranta,Finland,5.4,59276.0
+Sydney,Australia,5.3,4630000.0
+Narva,Estonia,5.3,66980.0
+Oulu,Finland,5.3,136752.0
+Christchurch,New Zealand,5.2,363200.0
+Narvik,Norway,5.2,20000.0
+Funchal,Portugal,5.2,204767.0
+Sundsvall,Sweden,5.2,73389.0
+Edinburgh,United Kingdom,5.2,504966.0
+Tampere,Finland,5.0,259279.0
+Kuopio,Finland,4.8,91900.0
+Charlottetown,Canada,4.7,42402.0
+Umeå,Sweden,4.5,78197.0
+Punta Arenas,Chile,4.3,117430.0
+Faro,Portugal,3.7,41355.0
+Vladivostok,Russia,3.4,587022.0
+Hobart,Australia,3.0,80870.0
