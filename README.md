@@ -49,7 +49,7 @@ Moskaltsov, Yury. “pandas subplot title size.” _Stack Overflow_, 1 Jan. 1966
 
 Peille, Nicolas, and Mario Cianciolo. “How to Find If There Are Wrong Values in a Pandas Dataframe?” _Stack Overflow_, 1 Mar. 1963, stackoverflow.com/questions/50138110/how-to-find-if-there-are-wrong-values-in-a-pandas-dataframe. Accessed 12 Feb. 2025.
 
-"Python For Data Science _Cheat Sheet_" _Cheat Sheet Numpy Python Copy.Indd_, assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf. Accessed 15 Feb. 2025. 
+"Python For Data Science _Cheat Sheet_." _Cheat Sheet Numpy Python Copy.Indd_, assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf. Accessed 15 Feb. 2025. 
 
 “Series.” _Series - Pandas 2.2.3 Documentation_, pandas.pydata.org/pandas-docs/stable/reference/series.html. Accessed 15 Feb. 2025. 
 
